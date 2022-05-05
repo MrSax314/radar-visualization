@@ -1,2 +1,2 @@
 # radar-visualization
-Visualize the beam-forming effects of radio antenna
+Visualize the wave equation and the beam-forming effects of a radio antenna
